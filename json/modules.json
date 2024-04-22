@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1713215791.255499
+    "timestamp": 1713820497.676014
   },
   "modules": [
     {
@@ -490,8 +490,8 @@
     {
       "id": "HideNavBar",
       "name": "Fullscreen/Immersive Gestures (Q-U)",
-      "version": "v26.1",
-      "versionCode": 61,
+      "version": "v26.2",
+      "versionCode": 62,
       "author": "DanGLES3",
       "description": "Customize Android 10-14's navigation gestures",
       "track": {
@@ -505,13 +505,6 @@
       },
       "versions": [
         {
-          "timestamp": 1696885332.0,
-          "version": "v23.0",
-          "versionCode": 58,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v23.0_58.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1697217956.0,
           "version": "v24.0",
           "versionCode": 59,
@@ -523,6 +516,13 @@
           "version": "v26.1",
           "versionCode": 61,
           "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v26.1_61.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1713457945.0,
+          "version": "v26.2",
+          "versionCode": 62,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v26.2_62.zip",
           "changelog": ""
         }
       ]
@@ -2527,8 +2527,8 @@
     {
       "id": "unityfix",
       "name": "UnityFix",
-      "version": "5.0",
-      "versionCode": 5,
+      "version": "6.0",
+      "versionCode": 6,
       "author": "@LeanHijosdesusMadres [telegram]",
       "description": "Mejora el rendimiento de Call of Duty Mobile, Genshin Impact y otros juegos de motor Unity \u2022 Improves the performance of Call of Duty Mobile, Genshin Impact and other Unity engine games",
       "track": {
@@ -2546,6 +2546,13 @@
           "version": "5.0",
           "versionCode": 5,
           "zipUrl": "https://alt-repo.sanmer.app/modules/unityfix/5.0_5.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1713299452.0,
+          "version": "6.0",
+          "versionCode": 6,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/unityfix/6.0_6.zip",
           "changelog": ""
         }
       ]

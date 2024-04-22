@@ -8,6 +8,13 @@
       "versionCode": 5,
       "zipUrl": "https://alt-repo.sanmer.app/modules/unityfix/5.0_5.zip",
       "changelog": ""
+    },
+    {
+      "timestamp": 1713299452.0,
+      "version": "6.0",
+      "versionCode": 6,
+      "zipUrl": "https://alt-repo.sanmer.app/modules/unityfix/6.0_6.zip",
+      "changelog": ""
     }
   ]
 }
