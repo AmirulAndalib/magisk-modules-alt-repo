@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1715030181.986361
+    "timestamp": 1715635070.414728
   },
   "modules": [
     {
@@ -489,9 +489,9 @@
     },
     {
       "id": "HideNavBar",
-      "name": "Fullscreen/Immersive Gestures (Q-U)",
-      "version": "v26.2",
-      "versionCode": 62,
+      "name": "NavTweaks (former Fullscren/Immersive gestures) (Q-U)",
+      "version": "v27.0",
+      "versionCode": 64,
       "author": "DanGLES3",
       "description": "Customize Android 10-14's navigation gestures",
       "track": {
@@ -505,13 +505,6 @@
       },
       "versions": [
         {
-          "timestamp": 1697217956.0,
-          "version": "v24.0",
-          "versionCode": 59,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v24.0_59.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1711575269.0,
           "version": "v26.1",
           "versionCode": 61,
@@ -523,6 +516,13 @@
           "version": "v26.2",
           "versionCode": 62,
           "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v26.2_62.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1715577301.0,
+          "version": "v27.0",
+          "versionCode": 64,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v27.0_64.zip",
           "changelog": ""
         }
       ]
