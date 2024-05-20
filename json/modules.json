@@ -2,7 +2,7 @@
   "name": "Magisk Modules Alt Repo (mirror)",
   "metadata": {
     "version": 1,
-    "timestamp": 1715635070.414728
+    "timestamp": 1716239757.330019
   },
   "modules": [
     {
@@ -490,8 +490,8 @@
     {
       "id": "HideNavBar",
       "name": "NavTweaks (former Fullscren/Immersive gestures) (Q-U)",
-      "version": "v27.0",
-      "versionCode": 64,
+      "version": "v27.1",
+      "versionCode": 65,
       "author": "DanGLES3",
       "description": "Customize Android 10-14's navigation gestures",
       "track": {
@@ -505,13 +505,6 @@
       },
       "versions": [
         {
-          "timestamp": 1711575269.0,
-          "version": "v26.1",
-          "versionCode": 61,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v26.1_61.zip",
-          "changelog": ""
-        },
-        {
           "timestamp": 1713457945.0,
           "version": "v26.2",
           "versionCode": 62,
@@ -523,6 +516,13 @@
           "version": "v27.0",
           "versionCode": 64,
           "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v27.0_64.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1715695715.0,
+          "version": "v27.1",
+          "versionCode": 65,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v27.1_65.zip",
           "changelog": ""
         }
       ]
@@ -1984,8 +1984,8 @@
     {
       "id": "microg_installer",
       "name": "microG Installer Revived",
-      "version": "Revived 3.4.3-0",
-      "versionCode": 30430,
+      "version": "Revived 3.4.4-0",
+      "versionCode": 30440,
       "author": "nift4",
       "description": "Install microG GmsCore, Companion (or Play Store if you want so), GsfProxy and MapsV1 to /system/",
       "track": {
@@ -1999,13 +1999,6 @@
       },
       "versions": [
         {
-          "timestamp": 1700164226.0,
-          "version": "Revived 3.4.1-0",
-          "versionCode": 30410,
-          "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.1-0_30410.zip",
-          "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.1-0_30410.md"
-        },
-        {
           "timestamp": 1704627770.0,
           "version": "Revived 3.4.2-0",
           "versionCode": 30420,
@@ -2018,6 +2011,13 @@
           "versionCode": 30430,
           "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.3-0_30430.zip",
           "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.3-0_30430.md"
+        },
+        {
+          "timestamp": 1716033244.0,
+          "version": "Revived 3.4.4-0",
+          "versionCode": 30440,
+          "zipUrl": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.4-0_30440.zip",
+          "changelog": "https://alt-repo.sanmer.app/modules/microg_installer/Revived_3.4.4-0_30440.md"
         }
       ]
     },
