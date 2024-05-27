@@ -3,13 +3,6 @@
   "timestamp": 1672873450.0,
   "versions": [
     {
-      "timestamp": 1713457945.0,
-      "version": "v26.2",
-      "versionCode": 62,
-      "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v26.2_62.zip",
-      "changelog": ""
-    },
-    {
       "timestamp": 1715577301.0,
       "version": "v27.0",
       "versionCode": 64,
@@ -21,6 +14,13 @@
       "version": "v27.1",
       "versionCode": 65,
       "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v27.1_65.zip",
+      "changelog": ""
+    },
+    {
+      "timestamp": 1716752152.0,
+      "version": "v27.3",
+      "versionCode": 67,
+      "zipUrl": "https://alt-repo.sanmer.app/modules/HideNavBar/v27.3_67.zip",
       "changelog": ""
     }
   ]
